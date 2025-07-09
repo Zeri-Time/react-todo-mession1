@@ -44,6 +44,9 @@ npm run dev
 
 
 ### 데모
-이미지
+![image](https://github.com/user-attachments/assets/77b572ed-5a56-4e7b-a29e-529281b769e9)
+![image](https://github.com/user-attachments/assets/56b0f560-65ee-49cb-9b91-c89aec6930c7)
+
+
 
 
