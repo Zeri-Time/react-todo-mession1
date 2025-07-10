@@ -40,6 +40,10 @@ plugins: [tailwindcss()]
 ```bash
 npm i react-router-dom
 ```
+### 4. **formkit 설치**
+```bash
+npm install @formkit/auto-animate
+```
 ### 🚀실행
 ```bash
 npm run dev
